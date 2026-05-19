@@ -2,7 +2,7 @@
 .
 # Easy 
 Easy/2553_seperate_the_digits_in_array.cpp
-Easy
+Easy/2540_Minimum_common_value.cpp
 # Medium
 Medium/3660_jump_stateix.cpp
 Medium/1914_cyclically_rotated_grid.cpp
